@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hi i am arunkumar
 third two
+
+hi i am arunkumar h i
+second one
+
